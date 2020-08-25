@@ -9,5 +9,5 @@ This project is currently a placeholder, however as the project advances, this r
 
 
 To obtain the full data set, please contact the project PI:
-[mailto:andrew.hamilton-wright@uoguelph.ca](andrew.hamilton-wright@uoguelph.ca)
+[andrew.hamilton-wright@uoguelph.ca](mailto:andrew.hamilton-wright@uoguelph.ca)
 
